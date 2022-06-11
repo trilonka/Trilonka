@@ -11,11 +11,11 @@
 
 ### 💬 I'm russian 18 years old junior Java Developer 💬
 - 🌱 First-year student in applied mathematics and informatics
-- 🔭 Currently learning Spring Framework
+- 🔭 Currently learning Rust and computer engineering
 - 🤔 Interested in information security
 - ❔ I like solving algorithmic problems
-- ⚡ My goal is to become a highly qualified specialist in my field (at the moment I'm focused on server-side development in Java)
-- 💻 You can check my LeetCode account [here](https://leetcode.com/Trilonka/)
+- ⚡ My goal is to become a highly qualified specialist in my field (at the moment I'm focused on server-side development)
+<!-- - 💻 You can check my LeetCode account [here](https://leetcode.com/Trilonka/) -->
 
 ---
 
