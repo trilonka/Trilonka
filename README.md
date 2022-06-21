@@ -9,7 +9,7 @@
 
 ---
 
-### 💬 I'm russian 18 years old junior Java Developer 💬
+### 💬 I'm russian 18 years old junior Rust Developer 💬
 - 🌱 First-year student in applied mathematics and informatics
 - 🔭 Currently learning Rust and computer engineering
 - 🤔 Interested in information security
