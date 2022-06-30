@@ -45,4 +45,3 @@
   [<img align="left" alt="Aniskov Stepan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />](https://vk.com/trilonka)
   [<img align="left" alt="Aniskov Stepan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/trilonka)
   [<img align="left" alt="Aniskov Stepan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail-dot-ru.svg" />](mailto:trilonka@mail.ru)
-  
