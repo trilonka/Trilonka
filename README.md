@@ -9,9 +9,9 @@
 
 ---
 
-### 💬 I'm russian 18 years old junior Rust Developer 💬
-- 🌱 First-year student in applied mathematics and informatics
-- 🔭 Currently learning Rust and computer engineering
+### 💬 I'm russian 18 years old junior Java Developer 💬
+- 🌱 Second-year student in applied mathematics and informatics
+- 🔭 Currently learning Spring and computer engineering
 - 🤔 Interested in information security
 - ❔ I like solving algorithmic problems
 - ⚡ My goal is to become a highly qualified specialist in my field (at the moment I'm focused on server-side development)
