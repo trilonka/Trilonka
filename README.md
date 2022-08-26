@@ -9,7 +9,7 @@
 
 ---
 
-### 💬 I'm russian 18 years old junior Java Developer 💬
+### 💬 I'm russian 19 years old junior Java Developer 💬
 - 🌱 Second-year student in applied mathematics and informatics
 - 🔭 Currently learning Spring and computer engineering
 - 🤔 Interested in information security
