@@ -9,7 +9,7 @@
 
 ---
 
-### 💬 I'm russian 19 years old junior Java Developer 💬
+### 💬 I'm russian 19 years old Java Developer 💬
 - 🌱 Yandex Academy student and second-year student in applied mathematics and informatics
 - 🔭 Currently learning Spring and DevOps
 - 🤔 Interested in frontend development
