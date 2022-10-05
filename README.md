@@ -13,8 +13,8 @@
 - 🌱 Yandex Academy student and second-year student in applied mathematics and informatics
 - 🔭 Currently learning Spring and DevOps
 - 🤔 Interested in frontend development
-- ❔ I like solving creating interfaces
-- ⚡ My goal is to become a highly skilled java developer
+- ❔ I like creating interfaces
+- ⚡ My goal is to become a highly skilled Java developer
 <!-- - 💻 You can check my LeetCode account [here](https://leetcode.com/Trilonka/) -->
 
 ---
