@@ -1,4 +1,4 @@
-# Hi 👋, I'm Trilonka, backend developer
+# Hi 👋, I'm Trilonka, dreamer
 
 ## Languages and Tools
 
