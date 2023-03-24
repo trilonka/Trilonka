@@ -23,5 +23,12 @@
 
 <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=trilonka&show_icons=true&theme=transparent&hide_border=true&hide_title=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trilonka&layout=compact&hide_border=true)
+### Currently studing:
 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="Html" alt="Html" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Css" alt="Css" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS"  alt="JS" width="40" height="40"/>
+
+<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=trilonka&show_icons=true&theme=transparent&hide_border=true&hide_title=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trilonka&layout=compact&hide_border=true)
