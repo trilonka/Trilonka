@@ -1,7 +1,8 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![:trilonka](https://count.getloli.com/get/@:trilonka)
-
-<h1 align="center">Hi 👋, I'm Trilonka</h1>
-<h3 align="center">student, dreamer</h3>
+<div align="center">
+  <img src="https://count.getloli.com/get/@:trilonka"/>
+  <h1>Hi 👋, I'm Trilonka</h1>
+  <h3>student, dreamer</h3>
+</div>
 
 ### Languages and Tools:
 
@@ -31,4 +32,7 @@
 
 <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=trilonka&show_icons=true&theme=transparent&hide_border=true&hide_title=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trilonka&layout=compact&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=trilonka&show_icons=true&theme=transparent&hide_border=true&hide_title=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trilonka&layout=compact&hide_border=true"/>
+</div>
