@@ -37,3 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=trilonka&show_icons=true&theme=transparent&hide_border=true&hide_title=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trilonka&layout=compact&hide_border=true"/>
 </div>
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=315vr6uaxhtsn4iegutpy77wdary&cover_image=true&theme=default&show_offline=false&background_color=21262e&interchange=false&bar_color=53b14f&bar_color_cover=true"/>
+</div>
